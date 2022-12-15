@@ -44,5 +44,9 @@
 * The structure of the final report for a Data Science project should include a cover page, table of contents, executive summary, detailed contents, acknowledgements, references and appendices.
 * The report should present a thorough analysis of the data and communicate the project findings.
 
+# Certificates
+![](https://coursera-certificate-images.s3.amazonaws.com/RNXKC27GP6RM)
+![](https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png)
+
 
   
