@@ -28,6 +28,7 @@
 * Why diagnostic measures tools are needed.
 * The purpose of statistical significance tests.
 * That modeling and evaluation are iterative processes.
+## Week 3
 ### From Deployment to Feedback
 ### Main Topics
 * The importance of stakeholder input.
@@ -35,8 +36,6 @@
 * The importance of incorporating feedback to refine the model.
 * The refined model must be redeployed.
 * This process should be repeated as often as necessary.
-
-
 
 ## Certificates
 ![](https://coursera-certificate-images.s3.amazonaws.com/66LWEPR5PQW8)
