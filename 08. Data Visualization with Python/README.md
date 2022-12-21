@@ -1,4 +1,4 @@
-## Data Visualization with Python
+# Data Visualization with Python
 ## Week 1
 ### Introduction to Data Visualization Tools
 ### Main Topics
