@@ -1,5 +1,6 @@
 ## Model Development
-This Lab we practiced and created several models that will predict the price of the car using the variables or features.
+This Lab we practiced and created several models that will predict the price of the car using the variables or features. 
+## Main Topics
 ### Linear Regression and Multiple Linear Regression
 * Slope (.coef_)
 * Intercept (.intercept_)
