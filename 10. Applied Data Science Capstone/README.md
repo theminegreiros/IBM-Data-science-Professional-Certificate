@@ -1,3 +1,6 @@
+![Picture1](https://user-images.githubusercontent.com/40517814/209198773-8f13a831-381d-44d0-b478-fb9bbfa92752.jpg)
+
+
 # Applied Data Science Capstone
 ## Week 1 - Introduction
 ### Main Topics
@@ -30,3 +33,6 @@
 * Train different classification models.
 * Hyperparameter grid search.
 * Use your machine learning skills to build a predictive model to help a business function more efficiently.
+
+## Week 5 - Final Assignment
+* Prepare and submit the final presentation
