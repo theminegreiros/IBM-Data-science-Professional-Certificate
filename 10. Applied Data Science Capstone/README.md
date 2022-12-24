@@ -2,7 +2,7 @@
 
 
 # Applied Data Science Capstone
-## Week 1 - Introduction
+## Week 1 - Data Collection
 ### Main Topics
 * Write Python code to manipulate data in a Pandas data frame
 * Convert a JSON file into a Create a Python Pandas data frame by converting a JSON file
