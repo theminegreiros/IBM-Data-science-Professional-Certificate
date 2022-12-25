@@ -1,18 +1,18 @@
 # Data Analysis with Python
 ## Week 1 - Importing Datasets
-### Main topics:
+### Main topics
 * Define the Business Problem
 * Import and Export Data in Python
 * Analyze Data in Python
 
 ## Week 2 - Data Wrangling
-### Main topics:
+### Main topics
 * Identify and Handle Missing Values
 * Understand Data Formatting
 * Apply normalization to a data set
 
 ## Week 3 - Exploratory Data Analysis
-### Main topics:
+### Main topics
 * Describe Exploratory Data Analysis
 * Compute basic descriptive statistics
 * Create data groups
@@ -20,14 +20,14 @@
 * Define the association between two categorical variables
 
 ## Week 4 - Model Development
-### Main topics:
+### Main topics
 * Define the explanatory variable and the response variable
 * Evaluate the model using Visualization
 * Identify alternative regression approaches
 * Interpret the R-square and the Mean Square Error
 
 ## Week 5 - Model Evaluation
-### Main topics:
+### Main topics
 * Identify over-fitting and under-fitting in a predictive model
 * Apply Ridge Regression to linear regression models
 * Tune hyper-parameters of an estimator using Grid search
