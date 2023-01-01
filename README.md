@@ -26,7 +26,7 @@
 <img src='https://user-images.githubusercontent.com/40517814/210185516-27086530-30da-4861-b931-ed1f797e6ceb.png' width='150' /> 
 </p>
 
-### API's and Python Libraries
+### API's and Python Libraries used to complete the certification courses.
 <p float="left">
 <img src='https://user-images.githubusercontent.com/40517814/210186347-12db3ea7-ec84-4123-bdbb-36d993e01663.png' width='150' />
 <img src='https://user-images.githubusercontent.com/40517814/210186359-4e849753-5ecf-42e6-9d57-39da2675395f.png' width='150' />
