@@ -1,6 +1,6 @@
 # IBM Data Science Professional Certificate
 
-### This repository contains all my jupyter notebooks used in IBM Datascience Professional Certificate course. 
+### This repository contains all my jupyter notebooks used in IBM Data Science Professional Certificate course. 
 
 # Courses 
 * What is Data Science?
