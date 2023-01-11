@@ -2,6 +2,9 @@
 
 ### This repository contains all my jupyter notebooks used in IBM Data Science Professional Certificate course. 
 
+
+### All my badges achieved in this certification course are available [here](https://www.credly.com/users/themistocles-negreiros/badges).
+
 # Courses 
 * What is Data Science?
 * Tools for Data Science
@@ -41,12 +44,15 @@
 
 
 # Certificate
+<p float="center">
+<img src='https://user-images.githubusercontent.com/40517814/210136708-2d0ffbf4-e509-4cce-91ff-5a01687b7dae.png' width='1000' />
+
+<img src='https://images.credly.com/size/680x680/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png' width='400' />
+
+</p>
 
 
 
-![image](https://user-images.githubusercontent.com/40517814/210136708-2d0ffbf4-e509-4cce-91ff-5a01687b7dae.png)
-
-![image](https://images.credly.com/size/680x680/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png)
 
 
 
