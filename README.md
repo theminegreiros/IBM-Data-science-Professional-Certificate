@@ -43,7 +43,7 @@
 </p>
 
 
-# Certificate
+# Certificates
 <p float="center">
 <img src='https://user-images.githubusercontent.com/40517814/210136708-2d0ffbf4-e509-4cce-91ff-5a01687b7dae.png' width='1000' />
 
